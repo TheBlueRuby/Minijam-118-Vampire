@@ -10,5 +10,7 @@ Made with Construct 3 as that was what we have to learn for school.
 
 - Rat could be a standard rat bitten by bat to become vampire
 - Protect friend rats from things destroyed by blood
-- Jelly blobs as enemies maybe? (too much liquid makes them unstable and pop?)
+- Jelly blobs as enemies maybe? (too much liquid makes them unstable and pop?)  
+  ![jelly monster enemy](./art/enemy.png)
 - ~~Switch from rat to rat-bat~~ DONE  
+  ![rat becomes bat](./art/player-flying.png)  
