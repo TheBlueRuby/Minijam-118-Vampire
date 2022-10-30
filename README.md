@@ -5,6 +5,7 @@
 Vampirat is an entry into the [Minijam Game Jam 118 - Vampire](https://itch.io/jam/mini-jam-118-vampires/).  
 I had a bunch of rat drawings from 37 rats memes so I decided to put them to use in my first game jam.  
 Made with Construct 3 as that was what we have to learn for school.  
+Download at <https://blueruby.itch.io/vampirat/>
 
 ## Plan
 
